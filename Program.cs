@@ -126,6 +126,7 @@ namespace _1dan100gacha
                     Console.Write("sakkiz "); break;
                 case 9:
                     Console.Write("to`qqiz "); break;
+                    Console.WriteLine("        ");
             }
         }
     }
